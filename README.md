@@ -1,5 +1,5 @@
 # Kaggle_Titanic
-Решение задачи <code>[https://www.kaggle.com/competitions/titanic]("Titanic - Machine Learning from Disaster")
+Решение задачи <code>["Titanic - Machine Learning from Disaster"](https://www.kaggle.com/competitions/titanic)
 </code> с точностью 0.80861 на тестовой выборке.  
 * Код решения с комментариями в файле `Titanic_solution.ipynb`
 * Подробное описание решения в файле `Titanic_solution_description.pdf`
